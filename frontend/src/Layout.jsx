@@ -6,7 +6,7 @@ const Layout = () => {
       <main className="flex flex-col justify-center items-center grow">
         <Outlet />
       </main>
-      <footer className="p-2">foodter</footer>
+      <footer className="p-2">footer</footer>
     </>
   );
 };
